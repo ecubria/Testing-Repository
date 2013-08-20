@@ -11,5 +11,5 @@
  * @returns {Void}
  */
 function scheduled(type) {
-
+	PETECO
 }
